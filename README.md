@@ -3,7 +3,9 @@ The benchmarks can be copied and are ready to use. The file `csidh.m` is a sligh
 To start, load either of the parameter sets:
 
 `magma load_csidh512.m`
+
 `magma load_csidh1792.m`
+
 `magma load_csidh4096.m`
 
 which will also load `csidh.m` and the benchmark routines from `delegate_new.m`.
