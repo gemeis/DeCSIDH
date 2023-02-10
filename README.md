@@ -24,4 +24,4 @@ To speed up the benchmarks, the server computations are left out. Note that this
 or 
 ``` benchmark_ID(delta,N  : server:=true); ```
 
-which also tests for correctness of the delegation procedure by comparing it to the local computation. In this case, correctness can be shown. We warn however, that for large delta and high parameter sets, these benchmarks can however become quite slow.
+which also tests for correctness of the delegation procedure by comparing it to the local computation. In this case, correctness can be shown. We warn however, that for large delta and high parameter sets, these benchmarks can become quite slow.
